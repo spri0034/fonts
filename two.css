@@ -1,4 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Philosopher|Trirong|Taviraj');
+@import url('https://fonts.googleapis.com/css?family=Philosopher|Trirong');
+
+</style>
 *{
     padding: 0;
     margin: 0;
@@ -13,12 +15,12 @@ html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: font-family: 'Taviraj', serif;
+    font-family: 'Trirong', "Times New Roman" serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: font-family: 'Cinzel', serif;
+    font-family: 'Trirong', "Times New Roman", serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
