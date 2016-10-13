@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Cinzel:700|Philosopher');
+@import url('https://fonts.googleapis.com/css?family=Philosopher|Trirong|Taviraj');
 *{
     padding: 0;
     margin: 0;
@@ -13,7 +13,7 @@ html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: font-family: 'Cinzel', serif;
+    font-family: font-family: 'Taviraj', serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
